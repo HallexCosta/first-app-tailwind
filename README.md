@@ -2,7 +2,7 @@
 
 ![](./docs/page.png)
 
-How to run project?
+### How to run project?
 
 ```sh
 # Install dependencies
