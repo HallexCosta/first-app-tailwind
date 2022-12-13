@@ -1,5 +1,7 @@
 # My first website TailwindCSS
 
+You can access website click [here](https://google.com)
+
 ![](./docs/page.png)
 
 ### How to run project?
