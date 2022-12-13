@@ -1,6 +1,6 @@
 # My first website TailwindCSS
 
-You can access website click <a href="https://google.coma/" target="_blank">here</a>
+You can access website click [here](https://google.com/)
 
 ![](./docs/page.png)
 
