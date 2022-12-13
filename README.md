@@ -20,10 +20,10 @@ You can access website click [here](https://my-first-app-tailwindcss.vercel.app/
 $ yarn # or npm -i
 
 # Process tailwindcss (use this only if you edit css from page)
-$ tailwindcss -i ./src/main.css -o ./public/style.css
+$ yarn start:tailwindcss
 
-# Run http-server
-$ yarn start
+# Start http-server
+$ yarn start:web
 
 # Acccess page: http://localhost:8080
 ```

@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "http-server ./public"
+    "start:web": "http-server ./public",
+    "start:tailwindcss": "tailwindcss -i ./src/main.css -o ./public/style.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^3.2.4"
