@@ -7,9 +7,6 @@
     "start": "http-server ./public"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^5.0.0",
-    "cssnano": "^5.1.14",
-    "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4"
   },
   "dependencies": {
