@@ -1,7 +1,16 @@
 # My first website TailwindCSS
 
-You can access website click [here](https://google.com/)
+You can access website click [here](https://my-first-app-tailwindcss.vercel.app/)
 
+## Technologies
+
+- [x] TailwindCSS (v3.2.4)
+- [x] Http Server (v14.1.1)
+
+### Mobile  
+![](./docs/mobile.png)
+
+### Web  
 ![](./docs/page.png)
 
 ### How to run project?
